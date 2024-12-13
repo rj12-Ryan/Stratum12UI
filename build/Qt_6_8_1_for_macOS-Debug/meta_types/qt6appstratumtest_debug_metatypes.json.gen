@@ -1,0 +1,102 @@
+[
+    {
+        "classes": [
+            {
+                "className": "DateProvider",
+                "lineNumber": 8,
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "name": "currentDate",
+                        "notify": "currentDateChanged",
+                        "read": "getCurrentDate",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QString",
+                        "user": false
+                    }
+                ],
+                "qualifiedClassName": "DateProvider",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "name": "currentDateChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "public",
+                        "index": 1,
+                        "name": "updateDate",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "dateprovider.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "TimeProvider",
+                "lineNumber": 8,
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "name": "currentTime",
+                        "notify": "currentTimeChanged",
+                        "read": "getCurrentTime",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QString",
+                        "user": false
+                    }
+                ],
+                "qualifiedClassName": "TimeProvider",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "name": "currentTimeChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "public",
+                        "index": 1,
+                        "name": "updateTime",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "timeprovider.h",
+        "outputRevision": 68
+    }
+]

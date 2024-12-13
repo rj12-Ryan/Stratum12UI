@@ -1,0 +1,187 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-2607bccbd164be55b58d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Stratum12OS",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-2b7df024a95ec7e8a2c2.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-7f3626ff5ba70104da4c.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-47271ecb3ab026ee7be4.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-749a2d93b94d0bcad28f.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-7b851600d98525bc4849.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appStratumTest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appStratumTest-Debug-598941dd3c01bb22fe58.json",
+					"name" : "appStratumTest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appStratumTest_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appStratumTest_autogen-Debug-8f0cf4c6353f905b7c3d.json",
+					"name" : "appStratumTest_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appStratumTest_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appStratumTest_autogen_timestamp_deps-Debug-46dbd5a03be2c9e712db.json",
+					"name" : "appStratumTest_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appStratumTest_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appStratumTest_qmlimportscan-Debug-501c7f8b622bc9c092c8.json",
+					"name" : "appStratumTest_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appStratumTest_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appStratumTest_qmllint-Debug-3f18bc40eeacf5a3ab9e.json",
+					"name" : "appStratumTest_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appStratumTest_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appStratumTest_qmllint_json-Debug-e963da07fe70b5cfb6b9.json",
+					"name" : "appStratumTest_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appStratumTest_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appStratumTest_qmllint_module-Debug-428e7512bdfd5bc1a497.json",
+					"name" : "appStratumTest_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appStratumTest_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appStratumTest_qmltyperegistration-Debug-835468b829a220ce9fb5.json",
+					"name" : "appStratumTest_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appStratumTest_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appStratumTest_tooling-Debug-4150b04bd8efb97b79bd.json",
+					"name" : "appStratumTest_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appStratumTest_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appStratumTest_aotstats_target-Debug-182c75e217cb75bb1b4e.json",
+					"name" : "module_appStratumTest_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ryan/Documents/Stratum12/Stratum12OS/build/Qt_6_8_1_for_macOS-Debug",
+		"source" : "/Users/ryan/Documents/Stratum12/Stratum12OS"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

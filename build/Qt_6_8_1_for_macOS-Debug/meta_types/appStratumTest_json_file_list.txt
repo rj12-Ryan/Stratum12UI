@@ -1,0 +1,2 @@
+/Users/ryan/Documents/Stratum12/Stratum12OS/build/Qt_6_8_1_for_macOS-Debug/appStratumTest_autogen/include/../EWIEGA46WW/moc_dateprovider.cpp.json
+/Users/ryan/Documents/Stratum12/Stratum12OS/build/Qt_6_8_1_for_macOS-Debug/appStratumTest_autogen/include/../EWIEGA46WW/moc_timeprovider.cpp.json

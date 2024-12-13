@@ -1,0 +1,10 @@
+--bare
+-I
+/Users/ryan/Documents/Stratum12/Stratum12OS/build/Qt_6_8_1_for_macOS-Debug
+-I
+/Users/ryan/Qt/6.8.1/macos/qml
+--resource
+/Users/ryan/Documents/Stratum12/Stratum12OS/build/Qt_6_8_1_for_macOS-Debug/.qt/rcc/qmake_Stratum12OS.qrc
+--resource
+/Users/ryan/Documents/Stratum12/Stratum12OS/build/Qt_6_8_1_for_macOS-Debug/.qt/rcc/appStratumTest_raw_qml_0.qrc
+/Users/ryan/Documents/Stratum12/Stratum12OS/Main.qml

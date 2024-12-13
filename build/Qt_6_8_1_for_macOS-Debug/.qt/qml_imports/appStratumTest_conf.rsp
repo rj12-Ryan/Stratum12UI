@@ -1,0 +1,14 @@
+-rootPath
+/Users/ryan/Documents/Stratum12/Stratum12OS
+-cmake-output
+-output-file
+/Users/ryan/Documents/Stratum12/Stratum12OS/build/Qt_6_8_1_for_macOS-Debug/.qt/qml_imports/appStratumTest_conf.cmake
+-importPath
+/Users/ryan/Documents/Stratum12/Stratum12OS/build/Qt_6_8_1_for_macOS-Debug/Stratum12OS
+-importPath
+/Users/ryan/Documents/Stratum12/Stratum12OS/build/Qt_6_8_1_for_macOS-Debug
+-importPath
+/Users/ryan/Qt/6.8.1/macos/qml
+-qrcFiles
+/Users/ryan/Documents/Stratum12/Stratum12OS/build/Qt_6_8_1_for_macOS-Debug/.qt/rcc/qmake_Stratum12OS.qrc
+/Users/ryan/Documents/Stratum12/Stratum12OS/build/Qt_6_8_1_for_macOS-Debug/.qt/rcc/appStratumTest_raw_qml_0.qrc

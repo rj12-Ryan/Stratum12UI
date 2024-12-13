@@ -1,0 +1,5 @@
+module Stratum12OS
+typeinfo appStratumTest.qmltypes
+prefer :/qt/qml/Stratum12OS/
+Main 1.0 Main.qml
+

@@ -1,0 +1,50 @@
+{
+    "classes": [
+        {
+            "className": "DateProvider",
+            "lineNumber": 8,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "currentDate",
+                    "notify": "currentDateChanged",
+                    "read": "getCurrentDate",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "DateProvider",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "currentDateChanged",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "updateDate",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "dateprovider.h",
+    "outputRevision": 68
+}

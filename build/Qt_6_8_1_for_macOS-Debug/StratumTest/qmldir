@@ -1,0 +1,5 @@
+module StratumTest
+typeinfo appStratumTest.qmltypes
+prefer :/qt/qml/StratumTest/
+Main 1.0 Main.qml
+

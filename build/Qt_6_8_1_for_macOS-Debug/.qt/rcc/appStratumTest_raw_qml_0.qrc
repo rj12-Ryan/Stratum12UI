@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Stratum12OS/">
+    <file alias="Main.qml">/Users/ryan/Documents/Stratum12/Stratum12OS/Main.qml</file>
+  </qresource>
+</RCC>
+
